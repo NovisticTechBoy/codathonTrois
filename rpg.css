@@ -1,0 +1,40 @@
+body {
+    background-color: khaki;
+    padding: 15px;
+}
+.password-container {
+    text-align: center;
+    padding-top: 80px;
+}
+.input{
+    border-radius: 6px;
+    margin: 5px;
+    padding-bottom: 30px;
+    font-family: cursive;
+    border: 1px solid #ccc;
+    width: 35%;
+    height: 44px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    font-size: larger;
+}
+
+.fa-regular.fa-copy {
+    font-size: 35px;
+    padding: 20px;
+}
+
+.input-container {
+ padding-bottom: 45px;
+ padding-top: 45px;   
+}
+#btn {
+    border-radius: 6px; 
+    width: 15%;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: large;
+    height: 39px;
+}
+#btn:hover {
+    background-color: orange;
+}
